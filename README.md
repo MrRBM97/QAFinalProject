@@ -61,6 +61,7 @@ I came up with the idea of basing my project on medicine because of experiences 
       - [Combined testing](#combined-testing)
   * [Jira](#jira)
   * [Risk Assessment](#risk-assessment)
+  * [Acknowledgements](#acknowledgements)
 
 
 ---
@@ -130,7 +131,7 @@ I would also like to add custom exception and increase the negative unit testing
 ##### Delete With No ID Of 1
 ![Image showing Postman Get After Post](/images/Postman-delete_withNoId1.JPG)
 ---
-## <a name="mysql-workbench-screenshot"></a> MySQL Workbench Screenshots <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8 width="30px">
+## <a name="mysql-workbench-screenshots"></a> MySQL Workbench Screenshots <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8 width="30px">
 ##### Schema
 ![Image showing Workbench schema](/images/Workbench-schema.JPG)
 
@@ -147,7 +148,7 @@ I would also like to add custom exception and increase the negative unit testing
 ![Image showing Workbench After Delete](/images/Workbench-afterDelete.JPG)
 
 ---
-## <a name="testing-screenshot"></a> Testing Screenshots <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f91e.png?v8 width="30px">
+## <a name="testing-screenshots"></a> Testing Screenshots <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f91e.png?v8 width="30px">
 
 #### <a name="unit-testing"></a> Unit Testing
 ##### Service
@@ -174,14 +175,14 @@ I would also like to add custom exception and increase the negative unit testing
 
 [Risk Matrix](/documentation/RiskMatrix.pdf)
 
-## Acknowledgements
+## <a name="acknowledgements"></a> Acknowledgements
 I thought it was important to acknowledge and thank those that helped me during the project, although it was my project; code and ideas I couldn't have completed it without the troubleshooting help when something went wrong. Therefore I want to thank:
 - Trainers:
- - Anoush.
- - Pawel.
+  - Anoush.
+  - Pawel.
 - Team mates:
- - Bal.
- - Keith.
- - Lukasz.
+  - Bal.
+  - Keith.
+  - Lukasz.
 
 ## Thank You For Checking Out My Repo!
