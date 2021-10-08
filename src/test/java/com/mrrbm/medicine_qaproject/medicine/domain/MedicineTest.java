@@ -2,8 +2,8 @@ package com.mrrbm.medicine_qaproject.medicine.domain;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.Before;
+import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.meanbean.test.BeanTester;
 import org.meanbean.test.HashCodeMethodTester;
@@ -16,7 +16,7 @@ public class MedicineTest {
 
 	Medicine medicine;
 
-	@BeforeEach
+	@Before
 	public void setUp() {
 		
 		this.medicine = Medicine.builder()
@@ -45,7 +45,7 @@ public class MedicineTest {
 	}
 
 	@Test
-	void EqualsTest() {
+	public void EqualsTest() {
 		
 		Medicine first = Medicine.builder()
 				.commonName("Paracetamol")
