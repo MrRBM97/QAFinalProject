@@ -30,13 +30,14 @@ I came up with the idea of basing my project on medicine because of experiences 
     + [What Didn't Go To Plan <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8 width="30px">](#what-didn-t-go-to-plan)
   * [Possible Improvements For Future Revisions Of The Project <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png?v8 width="30px">](#possible-improvements-for-future-revisions-of-the-project)
   * [Postman Screenshots <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f4ee.png?v8 width="30px">](#postman-screenshots)
-        * [Post](#post)
-        * [Get After Post](#get-after-post)
-        * [Put](#put)
-        * [Get After Put](#get-after-put)
-        * [Delete](#delete)
-        * [Get After Delete](#get-after-delete)
-        * [Delete With No ID Of 1](#delete-with-no-id-of-1)
+
+        * Post
+        * Get After Post
+        * Put
+        * Get After Put
+        * Delete
+        * Get After Delete
+        * Delete With No ID Of 1
 
   * [MySQL Workbench Screenshots <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8 width="30px">](#mysql-workbench-screenshots)
 
@@ -48,11 +49,15 @@ I came up with the idea of basing my project on medicine because of experiences 
 
   * [Testing Screenshots <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f91e.png?v8 width="30px">](#testing-screenshots)
       - [Unit Testing](#unit-testing)
-        * Service
-        * Controller
-        * Bonus - Entity
+  
+         * Service
+         * Controller
+         * Bonus - Entity
+         
       - [Integration Testing](#integration-testing)
-        * controller
+
+         * controller
+         
       - [Combined testing](#combined-testing)
   * [Jira](#jira)
   * [Risk Assessment](#risk-assessment)
