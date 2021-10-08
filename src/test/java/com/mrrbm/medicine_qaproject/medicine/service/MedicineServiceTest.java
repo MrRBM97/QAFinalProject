@@ -7,24 +7,22 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.boot.test.mock.mockito.MockBean;
 import com.mrrbm.medicine_qaproject.medicine.domain.Medicine;
 import com.mrrbm.medicine_qaproject.medicine.repo.MedicineRepo;
 
 @RunWith(MockitoJUnitRunner.class)
-@SpringBootTest
 public class MedicineServiceTest {
 
-	@Autowired
+	@InjectMocks
 	private MedicineService service;
 
-	@MockBean
+	@Mock
 	private MedicineRepo repo;
 
 	@Test
